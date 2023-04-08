@@ -89,6 +89,10 @@ background-color: var(--color-base);
     color: #fff;
 }
 
+.navbar .nav-link.active {
+    color: var(--color-brand)
+}
+
 .navbar .nav-link:hover{
     color: var(--color-brand);
 }
